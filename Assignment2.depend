@@ -1,0 +1,264 @@
+# depslib dependency file v1.0
+1369551117 source:c:\users\dustin\documents\c++ projects\assignment2\disjointset.cpp
+	"disjointset.h"
+
+1369551117 c:\users\dustin\documents\c++ projects\assignment2\disjointset.h
+
+1369566291 source:c:\users\dustin\documents\c++ projects\assignment2\edge.cpp
+	"edge.h"
+	<sstream>
+	<iostream>
+
+1369564559 c:\users\dustin\documents\c++ projects\assignment2\edge.h
+	<iostream>
+	"vertex.h"
+
+1369551015 source:c:\users\dustin\documents\c++ projects\assignment2\edgecomparer.cpp
+	"edgecomparer.h"
+
+1369551015 c:\users\dustin\documents\c++ projects\assignment2\edgecomparer.h
+
+1369551055 source:c:\users\dustin\documents\c++ projects\assignment2\graph.cpp
+	"graph.h"
+
+1369551055 c:\users\dustin\documents\c++ projects\assignment2\graph.h
+
+1369564528 source:c:\users\dustin\documents\c++ projects\assignment2\point.cpp
+	<sstream>
+	<iostream>
+	<math.h>
+
+1369552983 c:\users\dustin\documents\c++ projects\assignment2\point.h
+	<iostream>
+	"point.cpp"
+
+1366889405 source:c:\users\dustin\documents\c++ projects\assignment2\random.cpp
+	<cstdlib>
+	<ctime>
+	"random.h"
+
+1366889405 c:\users\dustin\documents\c++ projects\assignment2\random.h
+
+1369550830 c:\users\dustin\documents\c++ projects\assignment2\point.cpp
+	"point.h"
+
+1369564629 c:\users\dustin\documents\c++ projects\assignment2\vertex.h
+	<iostream>
+	<vector>
+
+1369807597 source:c:\users\dustin\dropbox\dk share\assignment2\disjointset.cpp
+	"disjointset.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1369641576 c:\users\dustin\dropbox\dk share\assignment2\disjointset.h
+
+1369566291 source:c:\users\dustin\dropbox\dk share\assignment2\edge.cpp
+	"edge.h"
+	<sstream>
+	<iostream>
+
+1369564559 c:\users\dustin\dropbox\dk share\assignment2\edge.h
+	<iostream>
+	"vertex.h"
+
+1369564629 c:\users\dustin\dropbox\dk share\assignment2\vertex.h
+	<iostream>
+	<vector>
+
+1369630417 source:c:\users\dustin\dropbox\dk share\assignment2\random.cpp
+	<cstdlib>
+	<ctime>
+	"random.h"
+
+1369630417 c:\users\dustin\dropbox\dk share\assignment2\random.h
+
+1369812618 source:c:\users\dustin\dropbox\dk share\assignment2\edgecomparer.cpp
+	"edgecomparer.h"
+
+1369568234 c:\users\dustin\dropbox\dk share\assignment2\edgecomparer.h
+	"edge.h"
+
+1369812527 source:c:\users\dustin\dropbox\dk share\assignment2\graph.cpp
+	"graph.h"
+	<algorithm>
+	"disjointset.h"
+	<stack>
+
+1369811129 c:\users\dustin\dropbox\dk share\assignment2\graph.h
+	"edgecomparer.h"
+	"vertex.h"
+	"edge.h"
+	<Vector>
+	<queue>
+
+1369791954 source:c:\users\dustin\dropbox\dk share\assignment2\point.cpp
+	"point.h"
+	<sstream>
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+
+1369630288 c:\users\dustin\dropbox\dk share\assignment2\point.h
+	<iostream>
+
+1369741148 source:c:\users\dustin\dropbox\dk share\assignment2\tspnotemplate.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<vector>
+	"random.h"
+	"point.h"
+	"graph.h"
+
+1369660581 source:c:\users\dustin\dropbox\dk share\assignment2\vertex.cpp
+	"vertex.h"
+	<sstream>
+	<iostream>
+
+1369807597 source:c:\users\daniel\dropbox\dk share\assignment2\disjointset.cpp
+	"disjointset.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1369641576 c:\users\daniel\dropbox\dk share\assignment2\disjointset.h
+
+1369566291 source:c:\users\daniel\dropbox\dk share\assignment2\edge.cpp
+	"edge.h"
+	<sstream>
+	<iostream>
+
+1369564559 c:\users\daniel\dropbox\dk share\assignment2\edge.h
+	<iostream>
+	"vertex.h"
+
+1369564629 c:\users\daniel\dropbox\dk share\assignment2\vertex.h
+	<iostream>
+	<vector>
+
+1369568491 source:c:\users\daniel\dropbox\dk share\assignment2\edgecomparer.cpp
+	"edgecomparer.h"
+
+1369568234 c:\users\daniel\dropbox\dk share\assignment2\edgecomparer.h
+	"edge.h"
+
+1369807706 source:c:\users\daniel\dropbox\dk share\assignment2\graph.cpp
+	"graph.h"
+	<algorithm>
+	"disjointset.h"
+	<stack>
+
+1369805231 c:\users\daniel\dropbox\dk share\assignment2\graph.h
+	"edgecomparer.h"
+	"vertex.h"
+	"edge.h"
+	<Vector>
+	<queue>
+
+1369791954 source:c:\users\daniel\dropbox\dk share\assignment2\point.cpp
+	"point.h"
+	<sstream>
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+
+1369630288 c:\users\daniel\dropbox\dk share\assignment2\point.h
+	<iostream>
+
+1369630417 source:c:\users\daniel\dropbox\dk share\assignment2\random.cpp
+	<cstdlib>
+	<ctime>
+	"random.h"
+
+1369630417 c:\users\daniel\dropbox\dk share\assignment2\random.h
+
+1369741148 source:c:\users\daniel\dropbox\dk share\assignment2\tspnotemplate.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<vector>
+	"random.h"
+	"point.h"
+	"graph.h"
+
+1369660581 source:c:\users\daniel\dropbox\dk share\assignment2\vertex.cpp
+	"vertex.h"
+	<sstream>
+	<iostream>
+
+1369992038 source:c:\users\dustin\dropbox\inb371\do not touch\assignment2\disjointset.cpp
+	"disjointset.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1369992038 c:\users\dustin\dropbox\inb371\do not touch\assignment2\disjointset.h
+
+1369982665 source:c:\users\dustin\dropbox\inb371\do not touch\assignment2\edge.cpp
+	"edge.h"
+	<sstream>
+
+1369982665 c:\users\dustin\dropbox\inb371\do not touch\assignment2\edge.h
+	<iostream>
+	"vertex.h"
+
+1369980595 c:\users\dustin\dropbox\inb371\do not touch\assignment2\vertex.h
+	<iostream>
+	<vector>
+
+1369980594 source:c:\users\dustin\dropbox\inb371\do not touch\assignment2\edgecomparer.cpp
+	"edgecomparer.h"
+
+1369980594 c:\users\dustin\dropbox\inb371\do not touch\assignment2\edgecomparer.h
+	"edge.h"
+
+1369980595 source:c:\users\dustin\dropbox\inb371\do not touch\assignment2\point.cpp
+	"point.h"
+	<sstream>
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+
+1369980595 c:\users\dustin\dropbox\inb371\do not touch\assignment2\point.h
+	<iostream>
+
+1369630418 source:c:\users\dustin\dropbox\inb371\do not touch\assignment2\random.cpp
+	<cstdlib>
+	<ctime>
+	"random.h"
+
+1369630418 c:\users\dustin\dropbox\inb371\do not touch\assignment2\random.h
+
+1369741148 source:c:\users\dustin\dropbox\inb371\do not touch\assignment2\tspnotemplate.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<vector>
+	"random.h"
+	"point.h"
+	"graph.h"
+
+1370073903 c:\users\dustin\dropbox\inb371\do not touch\assignment2\graph.h
+	"edgecomparer.h"
+	"vertex.h"
+	"edge.h"
+	<Vector>
+	<queue>
+
+1369980594 source:c:\users\dustin\dropbox\inb371\do not touch\assignment2\vertex.cpp
+	"vertex.h"
+	<sstream>
+	<fstream>
+	<iomanip>
+
+1370073954 source:c:\users\dustin\dropbox\inb371\do not touch\assignment2\graph.cpp
+	"graph.h"
+	<algorithm>
+	"disjointset.h"
+	<stack>
+
